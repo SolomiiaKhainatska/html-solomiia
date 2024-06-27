@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc04d0b-fd23-44b5-afe2-655321f3ef90" name="Changes" comment="did my hw one">
-      <change afterPath="$PROJECT_DIR$/hw1/hw-two.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3bc04d0b-fd23-44b5-afe2-655321f3ef90" name="Changes" comment="did my hw two">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/hw-three.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -79,7 +80,7 @@
       <updated>1719514454555</updated>
       <workItem from="1719514455570" duration="837000" />
       <workItem from="1719515333137" duration="127000" />
-      <workItem from="1719515618653" duration="3680000" />
+      <workItem from="1719515618653" duration="3771000" />
     </task>
     <task id="LOCAL-00001" summary="did my hw one">
       <option name="closed" value="true" />
@@ -89,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719515418913</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="did my hw two">
+      <option name="closed" value="true" />
+      <created>1719519323863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719519323863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="did my hw one" />
-    <option name="LAST_COMMIT_MESSAGE" value="did my hw one" />
+    <MESSAGE value="did my hw two" />
+    <option name="LAST_COMMIT_MESSAGE" value="did my hw two" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
