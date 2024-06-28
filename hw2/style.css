@@ -1,0 +1,30 @@
+  h1, h2
+    {
+      margin-bottom: 10px;
+      margin-top: 0;
+    }
+
+  .indented-text
+    {
+      padding-left: 20px;
+      font-style: italic;
+
+    }
+  a
+    {
+       text-decoration: none;
+    }
+.heading-details
+    {
+     display: flex;
+     align-items: center;
+    }
+.edit
+    {
+  margin-left: 10px;
+  font-size: 14px;
+    }
+.text-size
+         {
+           width: 50%;
+         }
