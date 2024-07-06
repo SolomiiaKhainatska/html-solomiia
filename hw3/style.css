@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f9e4c8;
+}
+ .container {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+}
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: background-color 0.3s, border-radius 0.3s;
+}
+.block:hover{
+    background-color: gray;
+    border-radius: 50%;
+}
