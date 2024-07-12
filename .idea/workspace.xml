@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc04d0b-fd23-44b5-afe2-655321f3ef90" name="Changes" comment="did my hw 9.2">
+    <list default="true" id="3bc04d0b-fd23-44b5-afe2-655321f3ef90" name="Changes" comment="edited my homework 1.3">
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/hw10/gdz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/hw10/hw-one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/hw10/style-10-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/favicon_io/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/gdz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/hw-one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10/style-10-1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,25 +59,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.HTML&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/solomiiakhainatska/IdeaProjects/html-solomiia/hw10",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw10" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw10" />
       <recent name="$PROJECT_DIR$/hw9" />
       <recent name="$PROJECT_DIR$/hw4" />
     </key>
@@ -102,7 +124,7 @@
       <workItem from="1720524941839" duration="274000" />
       <workItem from="1720530622572" duration="125000" />
       <workItem from="1720531746760" duration="23968000" />
-      <workItem from="1720621021620" duration="393000" />
+      <workItem from="1720621021620" duration="10511000" />
     </task>
     <task id="LOCAL-00001" summary="did my hw one">
       <option name="closed" value="true" />
@@ -216,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720585998863</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="edited my homework 1.3">
+      <option name="closed" value="true" />
+      <created>1720621700896</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1720621700896</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +276,8 @@
     <MESSAGE value="did my hw 4.2" />
     <MESSAGE value="did my hw 9.1" />
     <MESSAGE value="did my hw 9.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="did my hw 9.2" />
+    <MESSAGE value="edited my homework 1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited my homework 1.3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
