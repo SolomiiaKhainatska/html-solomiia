@@ -1,0 +1,23 @@
+@media screen and (max-width: 480px){
+    .container {
+        flex-direction: column;
+    }
+    .a, .b,.f{
+        width: 100%;
+        height: 25vh;
+    }
+    .box {
+        flex-direction: column;
+    }
+    .left {
+        width: 100%;
+    }
+    .klein {
+        height: 25vh;
+        width: 100%;
+    }
+    .c,.d,.e{
+        width: 100%;
+        height: 100%;
+    }
+}
