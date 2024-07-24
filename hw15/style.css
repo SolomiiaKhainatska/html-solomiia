@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a,.b,.c {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    border: 2px solid black;
+}
+    .a{
+        height: 40vh;
+        background-color: #ef9c9c;
+    }
+
+    .b {
+        width: 70vw;
+        height: 60vh;
+        background-color: #a0bb7f;
+    }
+    .c{
+        width: 30vw;
+        height: 60vh;
+        background-color: #f4bd83;
+    }
+    .flex{
+        display: flex;
+    }
