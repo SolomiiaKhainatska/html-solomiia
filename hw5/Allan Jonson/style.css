@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.active{
+    color: #365454;
+}
+/*-----------------header-----------------*/
+header{
+    font-family: "Orbitron", sans-serif;
+    height: 10vh;
+    background-color:#fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header nav{
+    width: 60%;
+}
+nav ul{
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+header nav ul a{
+    text-decoration: none;
+    color: #868181;
+    transition: 0.5s;
+    font-size: 18px;
+}
+header nav ul a:hover{
+    color: #051c13;
+    transition: 1s;
+}
+header div{
+    text-align: center;
+}
+/*-----------------section-----------------*/
+section{
+    font-family: "Poppins", sans-serif;
+    height: 80vh;
+    background-image: url(img.png);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+.container{
+    background-color: rgba(65, 198, 223, 0.27);
+    border-radius: 4px;
+    padding: 10px 10px;
+    height: 400px;
+    width: 700px;
+}
+section div h2{
+    text-align: center;
+    margin: 120px 0 10px;
+}
+.address{
+   margin: 10px 10px;
+}
+.email{
+    margin: 10px 10px;
+}
+.follow{
+    margin: 10px 10px;
+}
+/*-----------------header-----------------*/
+footer{
+    font-family: "Orbitron", sans-serif;
+    height: 10vh;
+    background-color:#fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.follow a {
+    text-decoration: none;
+    color: #546b9a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
